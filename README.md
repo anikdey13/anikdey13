@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://anikdey13.github.io/My-Portfolio-/] (https://anikdey13.github.io/My-Portfolio-/
+- 👨‍💻 All of my projects are available at [https://anikdey13.github.io/My-Portfolio-/](https://anikdey13.github.io/My-Portfolio-/
 )
 
 - 📫 How to reach me **anikdey2024@gmail.com**
