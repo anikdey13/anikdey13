@@ -17,6 +17,9 @@
 ## 👨🏻‍💻 Languages and Tools
 ![language and tools](https://skillicons.dev/icons?i=js,ts,vite,react,nextjs,mongodb,python,html,css,tailwindcss,vscode,git,github,linux)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anikdey13&theme=buefy-dark)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikdey13&show_icons=true&locale=en&layout=compact" alt="anikdey13" /></p>
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=anikdey13&theme=buefy-dark" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikdey13&show_icons=true&locale=en&layout=compact" alt="anikdey13" />
+</p>
