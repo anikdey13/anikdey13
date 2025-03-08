@@ -15,8 +15,8 @@
 </p>
 
 ## 👨🏻‍💻 Languages and Tools
-[![language and tools](https://skillicons.dev/icons?i=js,ts,python,c++,html,css,react,vite,nextjs,mongodb,postgresql,tailwindcss,vscode,git,github,linux,vercel)]
+![language and tools](https://skillicons.dev/icons?i=js,ts,vite,react,nextjs,mongodb,python,html,css,tailwindcss,vscode,git,github,linux)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=anikdey13&theme=buefy-dark)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikdey13&show_icons=true&locale=en&layout=compact" alt="anikdey13" /></p>
