@@ -5,9 +5,6 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://anikdey13.github.io/My-Portfolio-/](https://anikdey13.github.io/My-Portfolio-/
-)
-
 - 📫 How to reach me **anikdey2024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
