@@ -19,11 +19,4 @@
 
 <!-- GitHub Stats Section -->
 ## Statistical Datas
-
-<p style="display: flex; justify-content: space-between;">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anikdey13&show_icons=true&line_height=48&locale=en&bg_color=0d1117&text_color=ffffff"
-       alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikdey13&langs_count=20&show_icons=true&locale=en&bg_color=0d1117&text_color=F0184E&layout=compact"
-       alt="anikdey13" />
-</p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anikdey13&theme=buefy-dark&card_height=245" alt="GitHub Streak" /></a>
