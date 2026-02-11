@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikdey13&label=Profile%20views&color=0e75b6&style=flat" alt="anikdey13" /> </p>
 
-- 🌱 I’m currently learning **NEXT JS**
-
 - 📫 How to reach me **contact@anikdey.com**
 
 <h3 align="left">Connect with me:</h3>
